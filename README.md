@@ -1,2 +1,10 @@
 # PS3Splitter-Linux
-Split PS3 Games to 4GB files for FAT32 Usage
+
+Recursively finds and splits all files larger than 4GB.
+
+![Screenshot](Script.png)
+
+---
+
+~~Yes I gave up and used bash~~
+POSIX compliance? Pfft as if anyone else is going to use this script.
